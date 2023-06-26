@@ -1,0 +1,777 @@
+    1  ip r l
+    2  ip addr
+    3  ifup enp0s3
+    4  ip r l
+    5  systemctl status firewall.service
+    6  ls
+    7  mkdir
+    8  mkdir blackbox
+    9  touch blackbox
+   10  ls
+   11  touch ponnur
+   12  ls
+   13  cd naveen
+   14  cd blackbox
+   15  naveen
+   16  mkdir naveen
+   17  ls
+   18  touch chandu
+   19  ls
+   20  pwt
+   21  cd
+   22  c../
+   23  cd ../
+   24  rm blackbox
+   25  rm naveen
+   26  pwd
+   27  cd blackbox/
+   28  cd blackbox/naveen
+   29  cd /root/
+   30  ls
+   31  cd blackbox/
+   32  ls
+   33  cd naveen/
+   34  cd ../
+   35  pwd
+   36  rm -rf naveen
+   37  ls
+   38  netstat
+   39  history
+   40  su -
+   41  mkdir nidubrolu
+   42  ls
+   43  mv blackbox nidubrolu
+   44  ls
+   45  cd ../
+   46  cd nidubrolu
+   47  cd blackbox
+   48  ls
+   49  cd
+   50  ls
+   51  cd nidubrolu
+   52  ls
+   53  rm -rf blackbox
+   54  ls
+   55  cd
+   56  hostnamectl
+   57  etc hostname
+   58  etc localhost.localdomain
+   59  etc
+   60  vi /etc/hostname
+   61  reboot
+   62  vi /etc/hostname
+   63  reboot
+   64  ip r l
+   65  ip addr
+   66  ifup enp0s3
+   67  ip r l
+   68  yum install ssh
+   69  yum install ssh
+   70  yum install sshd
+   71  systemctl status ssh
+   72  systemctl status sshd
+   73  touch naveen.ssh
+   74  touch naveen.sh
+   75  ls
+   76  vim naveen.sh
+   77  vi naveen.sh
+   78  sh naveen.sh
+   79  vi naveen.sh
+   80  sh naveen.sh
+   81  vi naveen.sh
+   82  sh naveen.sh
+   83  exit
+   84  ls
+   85  mkrdir new directory
+   86  mkrdir
+   87  mkdir newdirectory
+   88  mkdir directorynew
+   89  ls
+   90  ls -l
+   91  rm -r
+   92  rm -r newdirectory
+   93  rm -r 'newdirectory'
+   94  ls
+   95  rm -r mkdir newdirectory
+   96  man
+   97  rm -r -m
+   98  rm
+   99  rm rm -r
+  100  pwd
+  101  rm -r
+  102  rm -r directory-1
+  103  rm -r newdirectory
+  104  rm -r 'newdirdectory'?
+  105  exit
+  106  ls
+  107  rm -rf newdirectory
+  108  ls
+  109  cd directory
+  110  cd directorynew/
+  111  touch simhadri
+  112  ls
+  113  cd ../
+  114  ls
+  115  pwd
+  116  ls
+  117  ls -l
+  118  man ls
+  119  ls -R
+  120  temp
+  121  temp directory
+  122  cd /temp
+  123  mkdir temp
+  124  ls
+  125  cd /home
+  126  mkdir temp
+  127  ls
+  128  mkdir newdirectory
+  129  ls
+  130  rm -rf newdirectory
+  131  ls
+  132  mkdir newdir
+  133  ls
+  134  rm -rf newdir
+  135  ls
+  136  mkdir tempdirectory
+  137  ls
+  138  cd /tempdirectory
+  139  cd tempdirectory/
+  140  pwd
+  141  cd
+  142  mkdir temp
+  143  cd /temp
+  144  cd /home
+  145  mkdir temp
+  146  ls
+  147  cd temp/
+  148  mkdir directorynew
+  149  ls
+  150  cd ../
+  151  cd
+  152  ls /home
+  153  cd /home
+  154  cd
+  155  ls
+  156  cd /home
+  157  cd /root/directorynew/
+  158  cd /home
+  159  cd ../
+  160  pwd
+  161  cd
+  162  cd directorynew/
+  163  cd
+  164  cd /home/
+  165  ls
+  166  rm -rf c_prog
+  167  ls
+  168  touch simha
+  169  ;s
+  170  ls
+  171  rm simha
+  172  /etc
+  173  cd /etc
+  174  ls
+  175  /usr/bin directory
+  176  . man
+  177  /bin/man
+  178  y
+  179  /bin/man/newdirctory
+  180  ./usr/bin/
+  181  touch .file
+  182  touch .mom
+  183  touch.cat
+  184  touch.rat
+  185  touch.father
+  186  touch .rat
+  187  touch .cat
+  188  ls
+  189  /usr/bin root
+  190  /usr/bin/root
+  191  /usr/bin directory
+  192  /usr/bin/
+  193  cd /usr/bin/
+  194  touch .ram
+  195  touch .ramesh
+  196  touch .ramu
+  197  ls
+  198  ls ^.
+  199  ls pipe
+  200  ls |grep^.
+  201  ls |grep ^.
+  202  history
+  203  ls |grep ^.
+  204  ls ^ .
+  205  ls .*
+  206  ls
+  207  ls .*
+  208  touch first.unix
+  209  touch first.unics
+  210  ls
+  211  cd
+  212  ls
+  213  ls .*
+  214  touch first.unix
+  215  touch first.unics
+  216  cd /first.unix
+  217  ls
+  218  cd /root vi
+  219  ls
+  220  vi cd /root
+  221  ls
+  222  ls -l
+  223  cd /root/first.unix
+  224  cat /first.unix
+  225  cat first.unix
+  226  ls
+  227  cat first.unics
+  228  cat cd
+  229  rm cd
+  230  vi first.unix
+  231  cat first.unix
+  232  cd home
+  233  cd /home
+  234  cd
+  235  cp first.unix /root/home
+  236  ls
+  237  cd /home
+  238  ls
+  239  cd
+  240  cp first.unix /root/home/
+  241  cp first.unix /home/
+  242  cd /home
+  243  ls
+  244  cat /first.unix
+  245  cp first.unix /home/first.unix
+  246  cat /first.unix
+  247  cat first.unix
+  248  cd
+  249  cp first.unics /home/
+  250  ls
+  251  cd /home/
+  252  ls
+  253  mv /first.unix /first.unics
+  254  mam /mv
+  255  man /mv
+  256  man mv
+  257  mv first.unix first.unics
+  258  ls
+  259  touch first.unix
+  260  cd /root vi
+  261  ls
+  262  cd /home/
+  263  ls
+  264  vi first.unix
+  265  cat first.unix
+  266  cd
+  267  ls
+  268  cp first.unix /home/first.unics
+  269  cat /home/first.unics
+  270  cat /home/first.unix /first.unics
+  271  cat /home/first.unix /home/first.unics
+  272  cd /home/temp
+  273  ls
+  274  mkdir newdirectory
+  275  ls
+  276  cp */home
+  277  cp /home
+  278  cd /home
+  279  cp * newdirectory
+  280  cp * /home/temp/newdirectory/
+  281  cp -r * /home/temp/newdirectory/
+  282  ls
+  283  cd /temp
+  284  cd
+  285  cd /temp
+  286  cd /home/temp
+  287  ls
+  288  cd newdirectory/
+  289  ls
+  290  yum install git
+  291  git config --global user.name "yadlapatinaveen"
+  292  git config --global user.email "yadlapatinaveen18@gmail.com"
+  293  mkdir project-k
+  294  cd project-k
+  295  git init
+  296  touch project.txt
+  297  git status
+  298  git add .
+  299  git status
+  300  vi project.txt
+  301  git status
+  302  git add .
+  303  git status
+  304  git commit -m "this is my"
+  305  git push
+  306  git push origin master
+  307  git push master
+  308  git status
+  309  git up
+  310  git push -u origin main
+  311  git remote add origin https://github.com/Yadlapatinaveen/project-k.git
+  312  git push origin master
+  313  yadlapatinaveen
+  314  git push origin master
+  315  git remote add test https://Yadlapatinaveen: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@github.com/Yadlapatinaveen/project-k.git
+  316  git push test master
+  317  git branch -M main
+  318  git remote add origin https://github.com/Yadlapatinaveen/project-k.git
+  319  git remote add test1 https://github.com/Yadlapatinaveen/project-k.git
+  320  git push -u test1 main
+  321  cd /root/
+  322  mkdir git
+  323  cd git/
+  324  git clone https://github.com/Yadlapatinaveen/project-k.git
+  325  ls
+  326  git config
+  327  git config --global
+  328  cd
+  329  git config --global --unset user.email "yadlapatinaveen18@gmail.com"
+  330  cd /root/
+  331  ls
+  332  cd project-k/
+  333  ls
+  334  git status 
+  335  git push -u test1 main
+  336  git remote add test2 git@github.com:Yadlapatinaveen/project-k.git
+  337  git push test2 main
+  338  cd /home/temp
+  339  ls
+  340  cd ../
+  341  ls
+  342  mv first.unix temp/second.unix
+  343  ls
+  344  cd /temp
+  345  cd temp
+  346  ls
+  347  cat second.unix
+  348  cd ../
+  349  rm -rf first.unics
+  350  ls
+  351  cd temp
+  352  rm *
+  353  ls
+  354  rm *.
+  355  cd ../
+  356  toch canada
+  357  touch canada
+  358  touch too
+  359  touch file.c
+  360  touch animal
+  361  touch tiger
+  362  touch rama
+  363  touch mango
+  364  cd
+  365  mkdir names
+  366  cd /home
+  367  mvcd
+  368  cd
+  369  mv /home/* names/
+  370  ls
+  371  mv names/*[aco] /home/
+  372  cd /home
+  373  ls
+  374  cp *unix temp
+  375  ls
+  376  cd
+  377  ls
+  378  cp *unix /home/temp
+  379  cd /home
+  380  cd /temp
+  381  cd temp
+  382  cd /tmp/
+  383  ls
+  384  cd ../
+  385  cd /home
+  386  cd temp
+  387  ls
+  388  cd
+  389  ls
+  390  mv temp /home/
+  391  cd /home
+  392  ls
+  393  rm temp
+  394  cd
+  395  mv temp /home/
+  396  ls
+  397  cd /home
+  398  ls
+  399  cd ..
+  400  cd /home
+  401  cd temp
+  402  cd .
+  403  cd ..
+  404  cp *unix /home/temp/
+  405  ls
+  406  cd
+  407  ls
+  408  cp *unix /home/temp/
+  409  ls
+  410  cd /home/temp
+  411  ls
+  412  cd ..
+  413  rm -rf temp
+  414  ls
+  415  man cp
+  416  cd
+  417  mkdir tranfer files
+  418  ls
+  419  touch tranfer/gopi naveen yogi ganesh sai
+  420  touch files/tiger lion elephant rabbit monkey
+  421  ls
+  422  [root@Naveen ~]# cd /home/temp
+  423  [root@Naveen temp]# ls
+  424  first.unix
+  425  [root@Naveen temp]# cd ..
+  426  [root@Naveen home]# rm -rf temp
+  427  [root@Naveen home]# ls
+  428  canada  file.c  mango  rama  too
+  429  [root@Naveen home]#
+  430  ls
+  431  man cp
+  432  cp -a tranfer/
+  433  cp -a tranfer/rabbit
+  434  cp -a tranfer files
+  435  ls
+  436  man cp
+  437  cd files
+  438  ls
+  439  cp -b tranfer files
+  440  man cp
+  441  cp -n 
+  442  cp -n tranfer/files
+  443  cp -n tranfer files
+  444  ls
+  445  cp -n chapc files
+  446  cd ..
+  447  cp -n chapc files
+  448  ls
+  449  cp -n chapC files
+  450  cd files
+  451  ls
+  452  man cp
+  453  cd ..
+  454  cd tranfer
+  455  touch goat
+  456  touch king
+  457  touch kohli
+  458  ls
+  459  cp -n tranfer files
+  460  cp -i tranfer files
+  461  man cp
+  462  cp -k tranfer files
+  463  cp --help
+  464  cp -t tranfer files
+  465  cat 
+  466  git status
+  467  history
+  468  date “+ %”
+  469  date "+ %"
+  470  ls
+  471  date "+ %"
+  472  date “+%m”
+  473  date "+ %m"
+  474  date "+ %D"
+  475  date “+%/%Training Activity”
+  476  date “+ %/%Training Activity”
+  477  date “+ %/ %Training Activity”
+  478  date “+%/ %Trainin
+  479  date “+%/%Training Activity”
+  480  date "}
+  481  date "+ %D"
+  482  q
+  483  exit
+  484  /
+  485  root
+  486  cd
+  487  [root@Naveen ~]#
+  488  date “+%/%Training Activity
+  489  >
+  490  <
+  491  .
+  492  cat friends
+  493  cat friends |sort 
+  494  cat friends cut |sort
+  495  cat friends cut |sort|uniq
+  496  cat friends |cut|sort|uniq
+  497  cut ls
+  498  cut --help
+  499  cat friends |cut|sort|uniq-c
+  500  cut ls
+  501  cat friends |cut-f |sort|uniq-c
+  502  cat friends|cut-f|sort|uniq
+  503  cat friends|cut-N|sort|uniq
+  504  cat friends |cut-N |sort |uniq
+  505  cat friends |cut N |sort |uniq
+  506  cat friends |cut N |sort |uniqcut N cut N 
+  507  cat friends |cut -d- -f1 |sort |uniq
+  508  cat friends |cut -d- -f2 |sort |uniq
+  509  cat friends |cut -d |sort |uniq
+  510  cat friends |cut -d 1,2,3  |sort |uniq
+  511  cat friends |cut -d -1  |sort |uniq
+  512  cat friends |cut -d -1|sort |uniq
+  513  cut --help
+  514  cat friends |cut-N |sort |uniq
+  515  cat friends |cut-f|sort|uniq
+  516  cat friends |cut-f 1-3 |sort|uniq
+  517  cat friends |cut-f 1-3|sort|uniq
+  518  cat friends |cut-f1-3|sort|uniq
+  519  cat friends dates |cut-f 1-3|sort|uniq
+  520  cat friends | cut -c 1-3|sort|uniq
+  521  cat friends dates | cut -c 1-3|sort|uniq
+  522  cat friends dates | cut -d " " -f2 |sort|uniq
+  523  cat friends dates | cut -d " " -f2|sort|uniq
+  524  cat friends dates | cut -d " " -f2|cut -d "/ " -f1|sort|uniq|wc
+  525  cat friends dates | cut -d " " -f2|cut -d "/ " -f1|sort|uniq|
+  526  cat friends dates | cut -d " " -f2|cut -d " / " -f2|sort|uniq|
+  527  cat friends dates | cut -d " " -f2|cut -d " \" -f2|sort|uniq|
+  528  cat friends | cut -d " " -f2|cut -d " \" -f2|
+  529  cat friends | cut -d " " -f2|
+  530  cat friends | cut -d " " -f2
+  531  cat friends | cut -d " " -f2|uniq
+  532  cat friends | cut -d " " -f2|sort
+  533  cat friends | cut -d " " -f2|sort|uniq
+  534  cat friends | cut -d " " -f2| cut -d " /" -f2
+  535  cat friends | cut -d " " -f2| cut -d " /" -f
+  536  cat friends | cut -d " " -f2| cut -d " / " -f
+  537  cat friends | cut -d " " -f2| cut -d " \ " -f
+  538  cat friends | cut -d " " -f2| cut -d " \ " -f1
+  539  cat friends | cut -d " " -f2| cut -d " \ " -f 1
+  540  cat friends | cut -d " " -f2| cut -d "/"
+  541  cat friends | cut -d " " -f2| cut -d "/" -f2
+  542  cat friends | cut -d " " -f2| cut -d "/" -f2|sort|uniq|wc
+  543  cat friends | cut -d " " -f2| cut -d "/" -f2|sort|uniq
+  544  cat friends | cut -d " " -f2| cut -d "/" -f1|sort|uniq
+  545  cat friends | cut -d " " -f2| cut -d "/" -f1|sort|uniq|wc
+  546  cat friends | cut -d " " -f2
+  547  cat friends | cut -d " " -f2| cut -d "/" -f1|sort|uniq|wc -l
+  548  cat friends grep ^
+  549  cat friends grep ^ma
+  550  cat friends grep -o "ma"
+  551  cat friends grep-o "ma"
+  552  cat friends grep -o "ma"
+  553  cat friends grep -o ma
+  554  cat friends grep -o 
+  555  cat friends grep-o 
+  556  cat friends grep ^
+  557  cat friends grep ^ ma
+  558  cat friends grep-W  ma
+  559  cat friends grep-W
+  560  cat friends grep -i 
+  561  cat friends grep -i "ma"
+  562  cat friends grep -i " ma "
+  563  cat friends grep -A ma
+  564   grep -A ma cat friends
+  565   grep -A  cat friends
+  566  cat friends grep -A 
+  567  cat friends| grep ma
+  568  cat friends| grep 
+  569  cat friends| grep " ma "
+  570  grep --help
+  571  cat friends| grep -O 
+  572  cat friends| grep -O  ma
+  573  cat friends| grep -O  MA
+  574  cat friends grep -O  MA
+  575  cat friends| grep -O  
+  576  yum install java-11-openjdk
+  577  wget
+  578  wget https://dlcdn.apache.org/maven/maven-3/3.9.2/binaries/apache-maven-3.9.2-bin.tar.gz
+  579  tar -xvf apache-maven-3.9.2-bin.tar.gz 
+  580  ls
+  581  mv apache-maven-3.9.2/opt/
+  582  mv apache-maven-3.9.2 /opt/
+  583  cd /opt/apache-maven-3.9.2/
+  584  cd bin/
+  585  ./ mvn --version
+  586  ./mvn --version
+  587  Export PATH=$PATH:/opt/apache-maven-3.9.2/bin/
+  588  Export PATH=$PATH:/opt/ apache-maven-3.9.2/bin/
+  589  export PATH=$PATH:/opt/ apache-maven-3.9.2/bin/
+  590  ExportPATH=$PATH:/opt/ apache-maven-3.9.2/bin/
+  591  Export PATH=$PATH:/opt /apache-maven-3.9.2/bin/
+  592  Export PATH=$PATH:/opt / apache-maven-3.9.2/bin/
+  593  Export PATH =$PATH:/opt /apache-maven-3.9.2/bin/
+  594  Export PATH = $PATH:/opt /apache-maven-3.9.2/bin/
+  595  export PATH = $PATH:/opt /apache-maven-3.9.2/bin/
+  596  export PATH=$PATH:/opt/apache-maven-3.9.2/bin/
+  597  mvn clean install
+  598  export PATH=$PATH://dir
+  599  export PATH=$PATH:/opt/apache-maven-3.9.2/bin/
+  600  vim bash_profile
+  601  cd
+  602  vim .bash_profile 
+  603  vi .bash_profile 
+  604  reboot
+  605  ip addr
+  606  ifup enp0s3
+  607  ip r l
+  608  df -Th
+  609  dcoker ps
+  610  docker ps
+  611  docker rm -f ab59267238e6
+  612  docker swarm status
+  613  docker --version
+  614  Could not chdir to home directory /home/naveen: No such file or directory
+  615  systemctl status docker
+  616  pwd
+  617  docker swarm init
+  618  docker service create --name new nginx:latest
+  619  echo $?
+  620  docker service ls
+  621  docker ps
+  622  docker run -it -d -p 8080:8080 -v /var/run/docker.sock:/varrun /docker.sock dockersamples/ visualizer
+  623  docker run -it -d -p 8080:8080 -v /var/run/docker.sock:/var run /docker.sock dockersamples/ visualizer
+  624  docker run -it -d -p 8080:8080 -v /var/run/docker.sock:/varrun/docker.sock dockersamples/visualizer
+  625  docker run -it -d -p 8081:8081 -v /var/run/docker.sock:/varrun/docker.sock dockersamples/visualizer
+  626  ip r l
+  627  docker ps
+  628  systemctl disable firewalld
+  629  systemctl status firewalld
+  630  ip r l
+  631  docker rm -f 7c742f68be3f 
+  632  docker ps
+  633  docker run -it -d -p 8081:8081 -v /var/run/docker.sock:/var/run/docker.sock dockersamples/visualizer
+  634  docker ps
+  635  docker ps 
+  636  docker rm -f 357fd1c915b8
+  637  docker rm -f 60dff661121d
+  638  docker images
+  639  docker run -it -d -p 8088:8081 -v /var/run/docker.sock:/var/run/docker.sock dockersamples/visualizer
+  640  docker ps
+  641  systemctl status firewalld
+  642  iptables -F
+  643  docker node ls
+  644  docker ps 
+  645  docker images
+  646  docker run -it -d -p 5000:8080 -v /var/run/docker.sock:/var/run/docker.sock dockersamples/visualizer
+  647  docker ps
+  648  ip r l
+  649  docker rm -f 
+  650  docker rm -f 9788f69fb1c0
+  651  docker rm -f d4f1d1b95ac4
+  652  docker rm -f 0324474b6e65
+  653  docker ps
+  654  docker rm =f d2c321e48236
+  655  docker rm -f d2c321e48236
+  656  docker ps
+  657  docker run -it -d -p 5000:8080 -v /var/run/docker.sock:/var/run/docker.sock dockersamples/visualizer
+  658  docker ps
+  659  docker service ls
+  660  docker service rm zrnj8i739f69
+  661  docker ps
+  662  docker rm -f 24704261ee71
+  663  docker images 
+  664  docker rmi 43ce62428b8c
+  665  docker rmi -f 43ce62428b8c
+  666  docker images 
+  667  docker run -it -d -p 5000:8080 -v /var/run/docker.sock:/var/run/docker.sock dockersamples/visualizer
+  668  dcoker pss
+  669  dcoker ps
+  670  docker ps 
+  671  dcoker ps
+  672  docker ps 
+  673  docker service create --name new1 --mode global httpd
+  674  docker images
+  675  docker rmi -f ad303d7f80f9
+  676  docker ps
+  677  docker service ls
+  678  docker ps
+  679  docker rm -f 0df60b2c4545
+  680  docker images
+  681  docker rmi -f ad303d7f80f9
+  682  docker ps 
+  683  docker service ls
+  684  docker service rm new1
+  685  docker rmi -f ad303d7f80f9
+  686  docker images 
+  687  docker rmi -f eb4a57159180
+  688  docker rmi -f 8135583d97fe
+  689  docker rmi -f 5e2b554c1c45
+  690  docker rmi -f 9c7a54a9a43c
+  691  docker rmi -f 43ce62428b8c
+  692  clear
+  693  docker run -it -d -p 8081:8080 -v /var/run/docker.sock:/var/run/docker.sock dockersamples/visualizer
+  694  docker ps
+  695  docker service create --name new1 httpd
+  696  dcoker ps
+  697  docker ps
+  698  docker service create --name new2 --mode global httpd
+  699  docker service ls
+  700  docker service rm aeg7p7m03du2
+  701  docker swarm init
+  702  docker node ls
+  703  docker swarm init
+  704  docker swarm leave
+  705  docker swarm leave --force
+  706  docker service ls 
+  707  docker swarm init
+  708  docker run -it -d -p 8088:8081 -v /var/run/docker.sock:/var/run/docker.sock dockersamples/visualizer
+  709  dcoker node ls
+  710  docker node ls
+  711  systemctl status firewalld
+  712  iptables -F
+  713  ip r l
+  714  docker ps
+  715  docker rm 4d534467a21a
+  716  docker rm -f 4d534467a21a
+  717  docker ps
+  718  docker service create --name new1 --mode global nginx
+  719  docker service ls
+  720  docker ps 
+  721  docker ps
+  722  docker rm -f 1339c0b0588a
+  723  docker run -it -d -p 1000:8081 -v /var/run/docker.sock:/var/run/docker.sock dockersamples/visualizer
+  724  docker ps 
+  725  docker rm -f a5c9d385272b
+  726  docker ps 
+  727  docker rm -f 9f27dcad46d1
+  728  docker ps
+  729  docker service create   --detach=true   --name=viz   --publish=8000:8080/tcp   --constraint=node.role==manager   --mount=type=bind,src=/var/run/docker.sock,dst=/var/run/docker.sock   dockersamples/visualizer
+  730  docker ps
+  731  docker ps 
+  732  docker service create --name new2 --replicas 5 httpd
+  733  docker service ls
+  734  docker service scale new2=10
+  735  df -Th
+  736  docker stack deploy --compose-file /root/stack-demo/docker-compose.yml new3
+  737  docker stack deploy --compose-file /root/stack-demo/docker-compose.yml
+  738  touch docker-composefile.yml
+  739  vi docker-composefile.yml 
+  740  docker volume create my-vol
+  741  docker volume ks
+  742  docker volume ls
+  743  docker service ls
+  744  docker service create --mount type=volume,source=my-vol,destination=/app httpd
+  745  docker ps
+  746  vi docker-composefile.yml 
+  747  docker stack deploy --compose-file /root/docker-composefile.yml new3
+  748  vi docker-composefile.yml 
+  749  docker stack deploy --compose-file /root/docker-composefile.yml new3
+  750  vi docker-composefile.yml 
+  751  docker stack deploy --compose-file /root/docker-composefile.yml new3
+  752  docker service ls
+  753  vi docker-composefile.yml 
+  754  history
+  755  vi docker-composefile.yml 
+  756  docker service ls
+  757  docker service rm -f r4i3bo2j4sgb 
+  758  docker service rm  r4i3bo2j4sgb 
+  759  docker service rm  xx5yu4bkfd30 
+  760  docker service rm  bb6a3jb2uokt
+  761  docker-compose up
+  762  yum install docker-compose
+  763  sudo curl -L "https://github.com/docker/compose/releases/download/1.23.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+  764  sudo chmod +x /usr/local/bin/docker-compose
+  765  docker-compose up
+  766  mv docker-composefile.yml docker-compose.yml
+  767  docker-compose up
+  768  docker ps
+  769  docker rm -f 030a432e284d
+  770  docker rm -f 23501dc66ee1
+  771  docker ps
+  772  docker-compose up -d
+  773  docker ps
+  774  history
+  775  history>historyfile
+  775  cd historyfile 
+  777  history > historyfile
